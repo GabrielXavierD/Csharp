@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\Linguagem C#\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
+      "projectUniqueName": "D:\\Github\\Csharp\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
       "projectName": "Primeiro Projeto",
-      "projectPath": "D:\\Github\\Linguagem C#\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
+      "projectPath": "D:\\Github\\Csharp\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\Linguagem C#\\Primeiro Projeto\\Primeiro Projeto\\obj\\",
+      "outputPath": "D:\\Github\\Csharp\\Primeiro Projeto\\Primeiro Projeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

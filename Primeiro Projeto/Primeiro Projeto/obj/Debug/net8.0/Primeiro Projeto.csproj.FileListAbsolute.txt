@@ -12,3 +12,18 @@ D:\Github\Linguagem C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\refint
 D:\Github\Linguagem C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\Primeiro Projeto.pdb
 D:\Github\Linguagem C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\Primeiro Projeto.genruntimeconfig.cache
 D:\Github\Linguagem C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\ref\Primeiro Projeto.dll
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\bin\Debug\net8.0\Primeiro Projeto.exe
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\bin\Debug\net8.0\Primeiro Projeto.deps.json
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\bin\Debug\net8.0\Primeiro Projeto.runtimeconfig.json
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\bin\Debug\net8.0\Primeiro Projeto.dll
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\bin\Debug\net8.0\Primeiro Projeto.pdb
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\Primeiro Projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\Primeiro Projeto.AssemblyInfoInputs.cache
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\Primeiro Projeto.AssemblyInfo.cs
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\Primeiro Projeto.csproj.CoreCompileInputs.cache
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\Primeiro Projeto.sourcelink.json
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\Primeiro Projeto.dll
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\refint\Primeiro Projeto.dll
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\Primeiro Projeto.pdb
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\Primeiro Projeto.genruntimeconfig.cache
+D:\Github\Csharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net8.0\ref\Primeiro Projeto.dll

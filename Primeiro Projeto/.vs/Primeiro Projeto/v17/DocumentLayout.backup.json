@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github\\Linguagem C#\\Primeiro Projeto\\",
+  "WorkspaceRootPath": "D:\\Github\\Csharp\\Primeiro Projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E21231DA-74F9-4A86-819F-71B64F97543E}|Primeiro Projeto\\Primeiro Projeto.csproj|d:\\github\\linguagem c#\\primeiro projeto\\primeiro projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E21231DA-74F9-4A86-819F-71B64F97543E}|Primeiro Projeto\\Primeiro Projeto.csproj|d:\\github\\csharp\\primeiro projeto\\primeiro projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E21231DA-74F9-4A86-819F-71B64F97543E}|Primeiro Projeto\\Primeiro Projeto.csproj|solutionrelative:primeiro projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,19 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\Linguagem C#\\Primeiro Projeto\\Primeiro Projeto\\Program.cs",
+              "DocumentMoniker": "D:\\Github\\Csharp\\Primeiro Projeto\\Primeiro Projeto\\Program.cs",
               "RelativeDocumentMoniker": "Primeiro Projeto\\Program.cs",
-              "ToolTip": "D:\\Github\\Linguagem C#\\Primeiro Projeto\\Primeiro Projeto\\Program.cs",
+              "ToolTip": "D:\\Github\\Csharp\\Primeiro Projeto\\Primeiro Projeto\\Program.cs",
               "RelativeToolTip": "Primeiro Projeto\\Program.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAQwEIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
