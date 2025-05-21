@@ -1,0 +1,15 @@
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\bin\Debug\net8.0\TiposDeDados.exe
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\bin\Debug\net8.0\TiposDeDados.deps.json
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\bin\Debug\net8.0\TiposDeDados.runtimeconfig.json
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\bin\Debug\net8.0\TiposDeDados.dll
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\bin\Debug\net8.0\TiposDeDados.pdb
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\obj\Debug\net8.0\TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\obj\Debug\net8.0\TiposDeDados.AssemblyInfoInputs.cache
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\obj\Debug\net8.0\TiposDeDados.AssemblyInfo.cs
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\obj\Debug\net8.0\TiposDeDados.csproj.CoreCompileInputs.cache
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\obj\Debug\net8.0\TiposDeDados.sourcelink.json
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\obj\Debug\net8.0\TiposDeDados.dll
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\obj\Debug\net8.0\refint\TiposDeDados.dll
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\obj\Debug\net8.0\TiposDeDados.pdb
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\obj\Debug\net8.0\TiposDeDados.genruntimeconfig.cache
+D:\Github\Csharp\Aula 24.04 - Tipos de dados\TiposDeDados\obj\Debug\net8.0\ref\TiposDeDados.dll

@@ -1,0 +1,25 @@
+Continuação da Representação de Diagrama de Classes
+-Um metodo com () -> sem parametros é retorno void, sem retorno de nada
+-Um metodo com (a,b,c,d) -> com parametros -> tem retorno
+
+
+: retorno -> +desligar(): void; +estaLigada(): boolean
+
+
+
+Metodos staticos -> não precisa instanciar a classe pra ser usado
+
+
+Ao criar uma classe automaticamente (não explicitamente, depois podemos cria-lo para deixar explicito) já existe um construtor vazio, por isso conseguir fazer logo no incio algo como: Pessoa p1 = new Pessoa() -> construtor vazio
+o construtor é o metodo especial chamado quando o objto é criado
+
+
+PascalCase em classes e metodos
+Nome de classe = substantivo/singular
+Metodos = verbos descritivos
+Constantes = sempre em letra maiuscula, VALOR_PI
+Parametros de metodos = camelCase -> calcular(decimal valorTotal)
+Atributos (variaveis de instancia da classe) =
+Campo = atributos privados dentro da classe = sempre inicia com underline e  o nome do atributo -> _ligado
+Propriedades = PascalCase -> NomeCompleto -> get e set ficam dentro das propriedades 
+Interfaces = herança e polimorfismo -> sempre começa com I maisculo e o restante PascalCase -> public class IPedidoServico{}

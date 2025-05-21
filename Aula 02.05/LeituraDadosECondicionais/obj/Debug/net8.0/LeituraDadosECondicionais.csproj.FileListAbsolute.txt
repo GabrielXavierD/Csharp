@@ -1,0 +1,15 @@
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\obj\Debug\net8.0\LeituraDadosECondicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\obj\Debug\net8.0\LeituraDadosECondicionais.AssemblyInfoInputs.cache
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\obj\Debug\net8.0\LeituraDadosECondicionais.AssemblyInfo.cs
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\obj\Debug\net8.0\LeituraDadosECondicionais.csproj.CoreCompileInputs.cache
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\obj\Debug\net8.0\LeituraDadosECondicionais.sourcelink.json
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\bin\Debug\net8.0\LeituraDadosECondicionais.exe
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\bin\Debug\net8.0\LeituraDadosECondicionais.deps.json
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\bin\Debug\net8.0\LeituraDadosECondicionais.runtimeconfig.json
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\bin\Debug\net8.0\LeituraDadosECondicionais.dll
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\bin\Debug\net8.0\LeituraDadosECondicionais.pdb
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\obj\Debug\net8.0\LeituraDadosECondicionais.dll
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\obj\Debug\net8.0\refint\LeituraDadosECondicionais.dll
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\obj\Debug\net8.0\LeituraDadosECondicionais.pdb
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\obj\Debug\net8.0\LeituraDadosECondicionais.genruntimeconfig.cache
+D:\Github\Csharp\Aula 02.05\LeituraDadosECondicionais\obj\Debug\net8.0\ref\LeituraDadosECondicionais.dll

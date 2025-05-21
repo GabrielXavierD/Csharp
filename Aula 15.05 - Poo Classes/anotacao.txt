@@ -1,0 +1,14 @@
+A classe descreve as propriedades (caracteristicas -> o conjunto de todos as prop. geram o ) e funcionalidades (comportamento -> metodos)
+dos objeto
+
+Classe = conjunto de objetos
+Objeto = instancia de uma classe
+Atributo = caracteristicas de uma classe que são atribuidas ao objeto
+
+
+Diagrama de Classes
+	Encapsulamento: 
+		- = privados ("geralmente" propriedades)
+		+ = publicos ("geralmente" metodos)
+		# = protegido (encapsulamento)
+

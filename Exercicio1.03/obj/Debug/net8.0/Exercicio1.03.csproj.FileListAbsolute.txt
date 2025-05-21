@@ -1,0 +1,15 @@
+D:\Github\Csharp\Exercicio1.03\obj\Debug\net8.0\Exercicio1.03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Csharp\Exercicio1.03\obj\Debug\net8.0\Exercicio1.03.AssemblyInfoInputs.cache
+D:\Github\Csharp\Exercicio1.03\obj\Debug\net8.0\Exercicio1.03.AssemblyInfo.cs
+D:\Github\Csharp\Exercicio1.03\obj\Debug\net8.0\Exercicio1.03.csproj.CoreCompileInputs.cache
+D:\Github\Csharp\Exercicio1.03\obj\Debug\net8.0\Exercicio1.03.sourcelink.json
+D:\Github\Csharp\Exercicio1.03\bin\Debug\net8.0\Exercicio1.03.exe
+D:\Github\Csharp\Exercicio1.03\bin\Debug\net8.0\Exercicio1.03.deps.json
+D:\Github\Csharp\Exercicio1.03\bin\Debug\net8.0\Exercicio1.03.runtimeconfig.json
+D:\Github\Csharp\Exercicio1.03\bin\Debug\net8.0\Exercicio1.03.dll
+D:\Github\Csharp\Exercicio1.03\bin\Debug\net8.0\Exercicio1.03.pdb
+D:\Github\Csharp\Exercicio1.03\obj\Debug\net8.0\Exercicio1.03.dll
+D:\Github\Csharp\Exercicio1.03\obj\Debug\net8.0\refint\Exercicio1.03.dll
+D:\Github\Csharp\Exercicio1.03\obj\Debug\net8.0\Exercicio1.03.pdb
+D:\Github\Csharp\Exercicio1.03\obj\Debug\net8.0\Exercicio1.03.genruntimeconfig.cache
+D:\Github\Csharp\Exercicio1.03\obj\Debug\net8.0\ref\Exercicio1.03.dll
