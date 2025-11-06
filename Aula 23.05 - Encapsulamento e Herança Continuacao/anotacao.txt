@@ -1,0 +1,3 @@
+Exceção, geralmente dentro de um if
+
+throw new Exception("Minha msg de erro")

@@ -1,0 +1,48 @@
+Abstração
+Simplificar um conceito complexo, permitindo q concentrar em detalhes mais relevantes enquanto oculta detalhes mais complexos e menos importantes
+	->Se usa em classes e interface
+
+-Modularidade: agrupar logicamente abstrações relacionadas
+Um conjunto de abstrações, muitas vezes forma uma hierarquia -> identificar hierarquias simplifica a compreensão do problema
+
+Oq é algo abstrato?
+Algo que não da pra explicar/ñ pode ser definido
+	Ex.: Animal, Amor, Felicidade
+
+-Clase abstrata nao pode ser instanciada usando direto o operador new
+-Classes abstratas geralmente sao subclasses de outras classes, podem ter metodos e metodos abstratos
+-metodos abstratos n tem implementação (corpo). 
+	Exemplo: public abstract void meuMetodo(); -> não tem {}
+	
+	*ou seja, é um metodo abstrato, nao sao definidos, não há o seu escopo definindo oq ele faz, ele só ele criado de forma generica
+	*Ao herdar, a subclasse herda (obrigatoriamente) os metodos abstratos e aí dentro deles fazemos o override DEFININDO oq fazem esses metodos herdados
+		Exemplo: public abstract void meuMetodo(); 
+
+
+-Somente classes abstratas possuem metodos abstratos
+
+
+Professor ontem o senhor mostrou os métodos virtuais também. Eles chegam a ser usados em classes abstratas?
+Sim
+
+A única diferença é que os abstratos são obrigatórios e os métodos virtuais não?
+
+Abstratas
+metodos abstract: definidos na subclasse
+metodos virtual: metodos ja definidos que podem ser sobrescritos em subclasses
+	Em C#, a palavra-chave virtual permite que um método em uma classe base seja sobrescrito (modificado) em uma classe derivada usando a palavra-chave override.sso significa que:
+•	A classe base (Animal) fornece uma implementação padrão para o método Respirar.
+•	Qualquer classe que herde de Animal pode sobrescrever esse método para fornecer um comportamento diferente, se necessário.
+Se você não usar virtual, o método não pode ser sobrescrito nas classes filhas.
+Use virtual quando quiser permitir (mas não obrigar) que subclasses modifiquem o comportamento do método.
+
+
+metodos padroes (da propria classe): ja definidos, subclasses a herdam
+
+
+
+só para anotar aqui professor, virtual -> posibilidade de implementar e nao obrigatoriedade, e em classes herdadas pode ter uma implementação diferente com sobrescrita
+
+e abstract -> obrigatorio em tudo
+
+ é a obrigatoriedade e a existência ou não de um corpo no método, ne?

@@ -147,6 +147,11 @@ namespace Classe
             int ano2 = int.Parse(Console.ReadLine());
 
             Livro livro3 = new Livro(titulo2, autor2, ano2);
+            livro3.emprestar();
+            livro3.emprestar();
+            livro3.devolver();
+            livro3.emprestar();
+
 
             // Exibindo informações diretamente no Console
             Console.WriteLine($"\nLivro 1 - título: {livro1.titulo}, autor: {livro1.autor}, ano: {livro1.ano}, emprestado: {livro1.emprestado}");
@@ -158,6 +163,32 @@ namespace Classe
 •Crie um método chamado “atacar” que recebe por parâmetro uma variável do tipo double que indica o dano do ataque numa escala de 0 a 10. O método deve apresentar uma mensagem na tela com o dano.
 •Crie um método chamado “movimentar” que deve receber por parâmetro uma variável do tipo int que indica a direção que o personagem vai se mover (1 – frente, 2 – trás, 3 – direita e 4 – esquerda). O método deve apresentar uma mensagem na tela mostrando a direção que o personagem vai se mover.
              */
+            String nome;
+            int x, y, itensColetados;
+            Console.WriteLine("Digite o nome do personagem: ");
+            nome = Console.ReadLine();
+            Console.WriteLine("Digite a posição x do personagem: ");
+            x = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite a posição y do personagem: ");
+            y = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite a quantidade de itens coletados: ");
+            itensColetados = int.Parse(Console.ReadLine());
+            Personagem p = new Personagem(nome, x, y, itensColetados);
+            p.Atacar(5.3);
+            p.Movimentar(1);
+            p.Atacar(7.3);
+            p.Movimentar(2);
+            p.Atacar(2.3);
+            p.Movimentar(3);
+            p.Atacar(1.3);
+            p.Movimentar(4);
+            p.Atacar(0.3);
+            Console.WriteLine("Personagem: " + p.nome);
+            Console.WriteLine("Posição. X = " + p.x + " Y = " + p.y);
+            Console.WriteLine("Itens coletados: " + p.itensColetados);
+
+
+
         }
     }
 }

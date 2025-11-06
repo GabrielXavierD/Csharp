@@ -1,0 +1,50 @@
+Interface, Array/Listas e Manipulação de Arquivos - Etapa 8
+
+Interface
+É um contrato base -> é abstrato, ou seja, nela definimos toda a base do "contrato"/classe, porem não damos corpo a nada pois serão preenchidos nas subclasses. Nela definimos comportamentos de metodos, propriedades etc...
+	É uma forma de não utilizar herança pra abstração, as classes podem implementar a interface, oq faz com que não precisamos criar uma classe abstrata herdem tudo oq ela tem. Ou seja, criamos apenas a interface e implementamos a interface nas classes q queremos que tenham o conteudo da interface, é bem simples, a interface concede o contrado não preenchido e as subclasses preenchem o contrato 
+	
+	Usamos : em C# e em Javaimplements
+Carro : IVeiculo
+
+Em IVeiculo colocamos os metodos e seu tipo (se é tem retorno (int,double,string...) ou se é void)
+double CalcularArea();
+
+Aí em carro, colocamos os seus construtores, o corpo dos metodos de IVeiculo e seus atributos especificos e atribuimos o tipo de visualização (Public etc...)
+
+private double _largura;
+public Retangulo(double largura, double altura){_largura = largura;_altura = altura;}
+public double CalcularArea(){... return}
+
+
+
+dentro de interface nao tem atributos somente metodos, os atributos e seus getters e setters sao feitos nas subclasses
+
+Nomenclatura padrao: INomeInterface
+Interfaces sao compostas por coisas abstratas
+
+metodos em interface sao sempre publicos
+
+
+
+
+Array
+Vetores = Arrays
+Arrays de uma unica camada -> unidimensionais
+Arrays com mais de uma camada -> multidimensionais
+
+Se declara assim: int[] A = {...}
+ou int[] A = new int[5]
+
+Listas (é uma classe)
+é fortemente tipada, precisamos saber o tipo de dados
+q será dentro dela
+List<tipo> nomeVariavel = new List<int>();
+
+nome.Count -> propriedade q diz qnts itens há dentro de algo, uma classe por ex
+
+
+Expressao lambida: uso do => pra reduzir codigo
+delegate(Pessoa p)
+
+o metodo toArray() converte listas pra Array

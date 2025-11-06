@@ -1,0 +1,15 @@
+D:\Github\Csharp\Aula 30.05 -\abstracao\bin\Debug\net8.0\abstracao.exe
+D:\Github\Csharp\Aula 30.05 -\abstracao\bin\Debug\net8.0\abstracao.deps.json
+D:\Github\Csharp\Aula 30.05 -\abstracao\bin\Debug\net8.0\abstracao.runtimeconfig.json
+D:\Github\Csharp\Aula 30.05 -\abstracao\bin\Debug\net8.0\abstracao.dll
+D:\Github\Csharp\Aula 30.05 -\abstracao\bin\Debug\net8.0\abstracao.pdb
+D:\Github\Csharp\Aula 30.05 -\abstracao\obj\Debug\net8.0\abstracao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Csharp\Aula 30.05 -\abstracao\obj\Debug\net8.0\abstracao.AssemblyInfoInputs.cache
+D:\Github\Csharp\Aula 30.05 -\abstracao\obj\Debug\net8.0\abstracao.AssemblyInfo.cs
+D:\Github\Csharp\Aula 30.05 -\abstracao\obj\Debug\net8.0\abstracao.csproj.CoreCompileInputs.cache
+D:\Github\Csharp\Aula 30.05 -\abstracao\obj\Debug\net8.0\abstracao.sourcelink.json
+D:\Github\Csharp\Aula 30.05 -\abstracao\obj\Debug\net8.0\abstracao.dll
+D:\Github\Csharp\Aula 30.05 -\abstracao\obj\Debug\net8.0\refint\abstracao.dll
+D:\Github\Csharp\Aula 30.05 -\abstracao\obj\Debug\net8.0\abstracao.pdb
+D:\Github\Csharp\Aula 30.05 -\abstracao\obj\Debug\net8.0\abstracao.genruntimeconfig.cache
+D:\Github\Csharp\Aula 30.05 -\abstracao\obj\Debug\net8.0\ref\abstracao.dll

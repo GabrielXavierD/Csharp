@@ -1,0 +1,46 @@
+Listas e tratamento de exessoes
+https://github.com/ricardofrohlich/ManipulandoListas
+
+
+Tratamento de excessoes 
+erros de execução inesperados -> evita erros fatais
+-Garante robustes e estabilidade
+
+
+try -> tente executar
+catch-> caso aconteça um erro, ele pega o erro e atribui ao objeto da classe Exception "e" (ou erro)
+	-E para mostrar a mensagem de erro capturada, utilizamos a propriedade .Message (erro.Message)
+
+Exception é  generalizada qualquer coisa cai ali
+	Podemos usa-la para caso n caia em nenhuma especifica, caia nela q é generica, podemos deixa-la por ultimo
+		catch(){}catch(){}catch(Exception erro)
+Caso nao sabia o nome da excesao especifica q precisa tratar se usa o catch(Exception erro) primeiro e dps verifica o nome com erro.GetType().Name
+
+Se quisermos ser especificos usamos os nomes das exceções q sao capturados com erro.GetType().Name
+
+Aí ele gera esses nomes: q podem ser usados nos catch especificos
+	-FormatException
+	-DivideByZeroException
+	-OverflowException erro
+
+catch(FormatException erro){... erro.Message}
+
+Então a boa prática seria tratar os erros específicos que você espera/sabe EM ORDEM ocorrer com os excpetions específicos e os que você não espera/sabe se vão ocorrer com o Exception geral (seria como se fosse um ELSE, pois seria algo q n sabemos, nao tratamos especificamente)
+
+
+
+finally: opcional e é usado p/ definir código que será executado indepedetemente de ocorrer ou não uma exceção. é utilixzado pra liberar recursos como fechar arquviso ous conexoes com banco de dados
+
+throw: lançar uma excessao manualmente
+
+
+
+
+
+MANIPULAÇÃO DE ARQUIVOS
+
+StreamWriter -> classe responsavel pela escrita e criação do arquivo 
+	StreamWriter escrever = new StreamWriter("arquivo.txt") -> escreve qual o nome do arquivo e seu tipo 
+instanciamos um objeto da classe StreamWriter
+
+e para escrever dentro do arquivo usamos objeto.WriteLine("texto")

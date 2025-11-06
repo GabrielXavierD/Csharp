@@ -1,0 +1,28 @@
+Encapsulamento 
+-Proteger propriedades e detalhes internos da classe
+-Publico = pode ser acessado em qualquer local do programa
+-Privado = mais restritivo
+-Protected = somente em membros dentro da classe e em classes derivadas (subclasses - herança) da classe que os contem 
+-Internal = nivel intermediario de visibilidade
+
+
++ = publico
+- = privado
+# = protegido
+
+Campos (fields)
+	-Campos sao variaveis de instancias privadas que armazenam o estado interno da classe
+	-Propriedades = membros de classe q serve como interfaces para acessar emodificar campos (ouvariaveis de instancia) privados
+
+
+Getter e Setters
+	-Metodos especiais
+	-Get = obter valor de um campo privado
+		nomePropriedadeGet()
+
+	-Set = atribuir e modificar valor
+		
+	-
+
+Herança
+-Herdar atributos em classes

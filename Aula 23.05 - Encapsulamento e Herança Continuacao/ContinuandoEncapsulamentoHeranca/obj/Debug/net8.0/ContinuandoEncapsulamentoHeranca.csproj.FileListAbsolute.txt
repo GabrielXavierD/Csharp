@@ -1,0 +1,15 @@
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\obj\Debug\net8.0\ContinuandoEncapsulamentoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\obj\Debug\net8.0\ContinuandoEncapsulamentoHeranca.AssemblyInfoInputs.cache
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\obj\Debug\net8.0\ContinuandoEncapsulamentoHeranca.AssemblyInfo.cs
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\obj\Debug\net8.0\ContinuandoEncapsulamentoHeranca.csproj.CoreCompileInputs.cache
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\obj\Debug\net8.0\ContinuandoEncapsulamentoHeranca.sourcelink.json
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\bin\Debug\net8.0\ContinuandoEncapsulamentoHeranca.exe
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\bin\Debug\net8.0\ContinuandoEncapsulamentoHeranca.deps.json
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\bin\Debug\net8.0\ContinuandoEncapsulamentoHeranca.runtimeconfig.json
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\bin\Debug\net8.0\ContinuandoEncapsulamentoHeranca.dll
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\bin\Debug\net8.0\ContinuandoEncapsulamentoHeranca.pdb
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\obj\Debug\net8.0\ContinuandoEncapsulamentoHeranca.dll
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\obj\Debug\net8.0\refint\ContinuandoEncapsulamentoHeranca.dll
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\obj\Debug\net8.0\ContinuandoEncapsulamentoHeranca.pdb
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\obj\Debug\net8.0\ContinuandoEncapsulamentoHeranca.genruntimeconfig.cache
+D:\Github\Csharp\Aula 23.05 - Encapsulamento e Herança Continuacao\ContinuandoEncapsulamentoHeranca\obj\Debug\net8.0\ref\ContinuandoEncapsulamentoHeranca.dll

@@ -1,0 +1,29 @@
+Herança
+Serve pra reduzir sistemas complexos e suas complexidades
+	herança gera "classes base"/super classe e classes q herdam sao subclasses
+abastração ->vem da herança, muito usado em classes e interfaces
+
+Para dar herança basta usar :
+	Cachorro : Animal (cachorro herda de animal - o : seriao extends do Java)
+
+
+Polimorfismo -> sobrecarga de construtores e metodos
+Diferença nas assinaturas:
+Em construtor -> nomes identifocs, diferem em parametros
+Em metodos -> nomes identicos, porem diferem em tipos e parametros
+
+virtual -> permite o metodo ser sobrescrito em classes derivadas
+	public virtual void Mostrar(){}
+
+override -> serve para sobrescrever o metodo na subclasse
+	public override void Mostrar(){}
+	-Muito usado pra reescrever o ToString()
+
+Em construtor se usa :base pra sobrescrever
+   public Estudante(string nome, int idade, string cpf, int matricula) : base(nome, idade, cpf)
+        {
+            _matricula = matricula;
+        }
+
+Professor, uma classe base pode ter um método com virtual e outro com abstract?
+	Sim
